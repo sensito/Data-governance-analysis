@@ -33,3 +33,5 @@ Para ejecutar el código, asegúrate de tener instalado Python 3.x y las siguien
 ```bash
 pip install PyPDF2 pandas
 ```
+### Notas Adicionales
+- Asegúrate de reemplazar `"ruta/a/tus/documentos"` con el directorio real donde se encuentran tus documentos PDF.
